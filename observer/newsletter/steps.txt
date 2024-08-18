@@ -1,0 +1,9 @@
+1- Create Subscriber Interface
+
+2- Create concrete classes of Subscribers (Readers)
+
+3- Create Blog Management
+
+4- Add the needed functionality 
+
+Note: all the needed info is in the UML.
