@@ -15,6 +15,6 @@ In this repo we will design and build maintainable, extensible and robust python
 > Is a behavioral design pattern that lets you define a family of algorithms,
 > put each of them into a separate class, and make their objects interchangeable.
 > Below code examples are included:
-> 	 - x
-> 	 - y
+> 	 - e-commerce
+> 	 - notification service
 >  	- z
