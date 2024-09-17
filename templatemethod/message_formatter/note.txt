@@ -1,0 +1,2 @@
+this app contains strategy pattern "previously handled", 
+also the functionality has been extended to support the defined set of rules using template method pattern.
