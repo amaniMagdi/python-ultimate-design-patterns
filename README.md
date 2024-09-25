@@ -17,4 +17,22 @@ In this repo we will design and build maintainable, extensible and robust python
 > Below code examples are included:
 > 	 - e-commerce
 > 	 - notification service
->  	- z
+>  	- message_formatter
+
+- **Template Method**
+
+> Is a behavioral design pattern that defines the skeleton of an algorithm in the superclass but lets subclasses override specific steps of the algorithm without changing its structure.
+> Below code examples are included:
+> 	 - cv_report_generation
+> 	 - message_formatter
+>  	- video_preset
+
+- **Memento**
+
+> Is a behavioral design pattern that lets you save and restore the previous state of an object without revealing the details of its implementation.
+> It separates dependency between **History**, **Object State** and **Context**.
+> Below code examples are included:
+> 	 - a
+> 	 - b
+
+
