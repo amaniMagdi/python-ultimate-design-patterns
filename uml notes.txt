@@ -1,0 +1,15 @@
+Here's a quick overview of visibility symbols in UML:
+
+    + (plus) → Public: The method or attribute is accessible from outside the class.
+    - (minus) → Private: The method or attribute is accessible only within the class.
+    # (hash) → Protected: The method or attribute is accessible within the class and by subclasses.
+    ~ (tilde) → Package: The method or attribute is accessible within its package (in languages that support package-level visibility, like Java).
+
+What is the difference between dependency and composition in UML?
+Dependency means that one class uses or relies on another class temporarily to perform a task. 
+It’s like borrowing something briefly. For example, a class might call a method from another class to get some data,
+ but it doesn’t own or keep that class.
+
+Composition means one class is made up of or owns other classes. 
+These classes are part of it, and if the main class is destroyed, the parts are destroyed too. 
+It’s like saying a car is composed of an engine, wheels, and seats — if the car is gone, those parts don’t exist separately.
