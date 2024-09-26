@@ -32,7 +32,7 @@ In this repo we will design and build maintainable, extensible and robust python
 > Is a behavioral design pattern that lets you save and restore the previous state of an object without revealing the details of its implementation.
 > It separates dependency between **History**, **Object State** and **Context**.
 > Below code examples are included:
-> 	 - a
-> 	 - b
+> 	 - text_editor
+> 	 - canvas
 
 
