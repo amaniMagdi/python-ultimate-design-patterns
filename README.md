@@ -35,4 +35,12 @@ In this repo we will design and build maintainable, extensible and robust python
 > 	 - text_editor
 > 	 - canvas
 
+- **Visitor**
+
+> Is a behavioral design pattern that allows adding new behaviors to existing class hierarchy without altering any existing code.
+> Below code examples are included:
+> 	 - schedule_management
+> 	 - document_processing_system
+
+
 
