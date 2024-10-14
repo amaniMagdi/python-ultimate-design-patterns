@@ -42,5 +42,10 @@ In this repo we will design and build maintainable, extensible and robust python
 > 	 - schedule_management
 > 	 - document_processing_system
 
+- **Iterator**
+> Is a behavioral design pattern that lets you traverse elements of a collection without exposing its underlying representation.
+>  - employee_hierarchy_iterator
+>  - profile_iterator
+
 
 
