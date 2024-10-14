@@ -45,7 +45,7 @@ In this repo we will design and build maintainable, extensible and robust python
 - **Iterator**
 > Is a behavioral design pattern that lets you traverse elements of a collection without exposing its underlying representation.
 >  - employee_hierarchy_iterator
->  - profile_iterator
+>  - profiles_iterator
 
 
 
