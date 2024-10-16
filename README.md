@@ -47,5 +47,8 @@ In this repo we will design and build maintainable, extensible and robust python
 >  - employee_hierarchy_iterator
 >  - profiles_iterator
 
-
+- **Chain of Responsibility**
+> Is behavioral design pattern that allows passing request along the chain of potential handlers until one of them handles request.
+> Below code examples are included:
+> - middleware_handler (Strategy + Template Method + Chain of Responsibility are applied in this exercise)
 
