@@ -53,3 +53,7 @@ In this repo we will design and build maintainable, extensible and robust python
 > - middleware_handler (Strategy + Template Method + Chain of Responsibility are applied in this exercise)
 > - data_processing_chain_handler
 
+- **State** 
+> Is a behavioral design pattern that allows an object to change the behavior when its internal state changes.
+> Below code examples are included:
+>  - order_management
