@@ -58,3 +58,8 @@ In this repo we will design and build maintainable, extensible and robust python
 > Below code examples are included:
 >  - order_management
 >  - project_management
+
+- **Mediator**
+> Is a behavioral design pattern that lets you reduce chaotic dependencies between objects. The pattern restricts direct communications between the objects and forces them to collaborate only via a mediator object.
+> Below code examples are included:
+>  - chat_mediator
