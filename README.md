@@ -64,3 +64,9 @@ In this repo we will design and build maintainable, extensible and robust python
 > Below code examples are included:
 >  - chat_mediator
 >  - air_traffic_controller_mediator
+
+- **Command**
+> Is behavioral design pattern that converts requests or simple operations into objects.
+> Below code examples are included:
+>  - smart_home_application
+>  - text_editor
