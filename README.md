@@ -1,5 +1,13 @@
 # python-ultimate-design-patterns
 In this repo we will design and build maintainable, extensible and robust python packages, each package is a type of design pattern with its UML diagram.
+
+**Classification of patterns**
+
+-   **Creational patterns** provide object creation mechanisms that increase flexibility and reuse of existing code.
+    
+-   **Structural patterns** explain how to assemble objects and classes into larger structures, while keeping these structures flexible and efficient.
+    
+-   **Behavioral patterns** take care of effective communication and the assignment of responsibilities between objects.
 #### 1- Behavioral Design Patterns:
 
  - **Observer**
