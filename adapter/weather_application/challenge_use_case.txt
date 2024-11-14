@@ -1,0 +1,6 @@
+Let's consider a scenario where we have a weather application that expects to receive city and country 
+to show users weather information in XML format.
+It's required to change the current structure of Weather Application, 
+to receive a location of longitude and latitude then extract the city and country from it 
+and use the current third-party which takes city and country. 
+Also we need to show the information in JSON format.
