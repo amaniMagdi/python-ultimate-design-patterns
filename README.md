@@ -82,6 +82,6 @@ In this repo we will design and build maintainable, extensible and robust python
 #### 2- Structural Design Patterns:
 
 - **Adapter**
-> Is a structural design pattern that allows objects with incompatible interfaces to collaborate.
+> Is a structural design pattern that allows objects with incompatible interfaces to collaborate. It does this by providing a wrapper, or "adapter," that translates one interface to another.
 > Below code examples are included:
 >  - weather_application
