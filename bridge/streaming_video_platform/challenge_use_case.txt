@@ -1,0 +1,5 @@
+Let's consider a scenario where we need to build a streaming video platform that supports 
+different video providers (YouTube, Twitch...etc) with playback function.
+
+It's required to also have the ability to set the quality of the video rendering (HD, SD.etc), 
+considering that different platforms might have different video quality which is not supported by others.
