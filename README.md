@@ -96,4 +96,8 @@ In this repo we will design and build maintainable, extensible and robust python
 > Below code examples are included:
 >  - org_hierarchy
 
+- **Decorator**
+> Is a structural pattern that allows adding new behaviors to objects dynamically by placing them inside special wrapper objects, called _decorators_.
+> Below code examples are included:
+>  - beverage_ordering_system
 
