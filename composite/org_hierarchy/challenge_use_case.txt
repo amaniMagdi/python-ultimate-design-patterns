@@ -1,0 +1,6 @@
+In a large organization, employees are organized into departments,
+and each department may have both individual employees and sub-departments.
+
+The company wants to generate reports that include information about the hierarchy,
+such as the total salary of a department or its sub-departments.
+
