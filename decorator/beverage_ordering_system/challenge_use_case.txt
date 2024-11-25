@@ -1,0 +1,6 @@
+You are developing a system for ordering beverages. 
+Customers can order different types of beverages (e.g., coffee, tea), 
+and they can customize their orders with various condiments (e.g., milk, sugar, whipped cream).
+
+The challenge is to allow dynamic customization of beverages 
+with different condiments (e.g. coffee with milk, tea with lemon and coffee with sugar and milk).
