@@ -91,3 +91,9 @@ In this repo we will design and build maintainable, extensible and robust python
 > Below code examples are included:
 >  - streaming_video_platform
 
+- **Composite**
+> Is a structural design pattern that lets you compose objects into tree structures and then work with these structures as if they were individual objects.
+> Below code examples are included:
+>  - org_hierarchy
+
+
