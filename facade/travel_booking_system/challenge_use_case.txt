@@ -1,0 +1,5 @@
+You're developing an online travel booking system where customers can book flights,
+reserve hotel rooms, and rent cars for their trips.
+
+The booking system involves multiple subsystems, including flight management,
+hotel reservation, car rental, and payment processing.
