@@ -101,3 +101,8 @@ In this repo we will design and build maintainable, extensible and robust python
 > Below code examples are included:
 >  - beverage_ordering_system
 
+- **Facade**
+> Is a structural design pattern that provides a simplified interface to a library, a framework, or any other complex set of classes.
+> Below code examples are included:
+>  - travel_booking_system
+
