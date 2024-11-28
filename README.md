@@ -106,3 +106,11 @@ In this repo we will design and build maintainable, extensible and robust python
 > Below code examples are included:
 >  - travel_booking_system
 
+- **Proxy**
+> Is a structural design pattern that lets you provide a substitute or placeholder for another object. A proxy controls access to the original object, allowing you to perform something either before or after the request gets through to the original object.
+> Below code examples are included:
+>  - json_caching_proxy
+
+- **Flyweight**
+> Is a structural design pattern that lets you fit more objects into the available amount of RAM by sharing common parts of state between multiple objects instead of keeping all of the data in each object.
+
