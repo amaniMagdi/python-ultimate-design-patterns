@@ -114,3 +114,10 @@ In this repo we will design and build maintainable, extensible and robust python
 - **Flyweight**
 > Is a structural design pattern that lets you fit more objects into the available amount of RAM by sharing common parts of state between multiple objects instead of keeping all of the data in each object.
 
+#### 3- Creational Design Patterns:
+
+- **Builder**
+> Is a creational design pattern that lets you construct complex objects step by step. The pattern allows you to produce different types and representations of an object using the same construction code.
+> Below code examples are included:
+>  - notifications_system
+
