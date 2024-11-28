@@ -1,0 +1,5 @@
+Let's consider a scenario where you need to 
+create and configure a notification in a messaging application.
+
+Notifications can have various attributes such as the message content,
+sender details, timestamp, and optional features like attachments.
