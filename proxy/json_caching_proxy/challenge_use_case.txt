@@ -1,0 +1,6 @@
+You're developing a web application that interacts with various remote APIs to fetch data. However,
+fetching data from remote APIs can be time-consuming and resource-intensive,
+especially for frequently accessed data.
+
+Additionally, you want to reduce the load on the remote APIs
+and improve the responsiveness of your application.
