@@ -1,0 +1,12 @@
+Implement a Flexible Logging Mechanism
+
+Develop a logging mechanism that supports multiple log levels (e.g., DEBUG, INFO, WARNING, ERROR, CRITICAL).
+The mechanism should allow dynamically setting the log level.
+
+Requirements:
+
+    When a log level is set, only messages of that level and more critical levels (e.g., INFO and higher) 
+    should be logged.
+    For example:
+        If the log level is set to INFO, messages for INFO, WARNING, ERROR, and CRITICAL should be logged,
+        but DEBUG messages should not.
