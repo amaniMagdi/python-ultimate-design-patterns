@@ -121,3 +121,8 @@ In this repo we will design and build maintainable, extensible and robust python
 > Below code examples are included:
 >  - notifications_system
 
+- **Singleton**
+> Is a creational design pattern that lets you ensure that a class has only one instance, while providing a global access point to this instance.
+> Below code examples are included:
+>  - logging_system
+
