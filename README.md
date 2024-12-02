@@ -126,3 +126,8 @@ In this repo we will design and build maintainable, extensible and robust python
 > Below code examples are included:
 >  - logging_system
 
+
+- **Prototype**
+> Is a creational design pattern that allows cloning objects, even complex ones, without coupling to their specific classes.
+> Below code examples are included:
+>  - marketing_material_designer
