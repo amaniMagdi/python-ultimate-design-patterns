@@ -1,0 +1,5 @@
+Let's consider a scenario where you need to create and configure customized brochures,
+flyers or posters for clients in a marketing company.
+
+Each marketing material can have different layouts, colors,
+and content which makes the creation process a bit complex and time-consuming.
