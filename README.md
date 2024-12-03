@@ -131,3 +131,9 @@ In this repo we will design and build maintainable, extensible and robust python
 > Is a creational design pattern that allows cloning objects, even complex ones, without coupling to their specific classes.
 > Below code examples are included:
 >  - marketing_material_designer
+
+- **Factory Method**
+> Is a creational design pattern that provides an interface for creating objects in a superclass, but allows subclasses to alter the type of objects that will be created.
+> Below code examples are included:
+>  - payment_processor
+
