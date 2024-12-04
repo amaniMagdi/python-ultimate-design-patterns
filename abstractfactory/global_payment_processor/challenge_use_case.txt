@@ -1,0 +1,1 @@
+Same use case of factory method but here we will have local and international payment methods.
