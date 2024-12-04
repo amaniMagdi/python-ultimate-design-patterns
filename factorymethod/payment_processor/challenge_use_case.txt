@@ -1,0 +1,6 @@
+Let's consider a scenario where you need to create a payment processor in an e-commerce application 
+that is responsible for handling various kinds of payment methods
+such as Visa, MasterCard, and American Express.
+
+The processing of payments consists of three steps: 
+authorization, startMoneyTransfer, and calculatePaymentFee. Design it as simple as you can!
